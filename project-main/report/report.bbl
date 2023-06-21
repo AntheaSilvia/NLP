@@ -1,0 +1,75 @@
+\begin{thebibliography}{10}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+
+\bibitem[{Agarwal(2020)}]{Agarwal2020}
+Rahul Agarwal. 2020.
+\newblock {Multiclass Text Classification - Pytorch}.
+\newblock
+  \url{https://www.kaggle.com/code/mlwhiz/multiclass-text-classification-pytorch/notebook}.
+\newblock [Online; accessed 05-Jan-2023].
+
+\bibitem[{Bhargava et~al.(2021)Bhargava, Drozd, and Rogers}]{Bhargava2021}
+Prajjwal Bhargava, Aleksandr Drozd, and Anna Rogers. 2021.
+\newblock \href {http://arxiv.org/abs/2110.01518} {Generalization in nli: Ways
+  (not) to go beyond simple heuristics}.
+
+\bibitem[{Chen et~al.(2021)Chen, Al~Khatib, Stein, and Wachsmuth}]{Chen2021}
+Wei-Fan Chen, Khalid Al~Khatib, Benno Stein, and Henning Wachsmuth. 2021.
+\newblock \href {https://doi.org/10.18653/v1/2021.findings-emnlp.228}
+  {Controlled neural sentence-level reframing of news articles}.
+\newblock In \emph{Findings of the Association for Computational Linguistics:
+  EMNLP 2021}, pages 2683--2693, Punta Cana, Dominican Republic. Association
+  for Computational Linguistics.
+
+\bibitem[{Kiesel et~al.(2022)Kiesel, Alshomary, Handke, Cai, Wachsmuth, and
+  Stein}]{Kiesel2022}
+Johannes Kiesel, Milad Alshomary, Nicolas Handke, Xiaoni Cai, Henning
+  Wachsmuth, and Benno Stein. 2022.
+\newblock \href {https://doi.org/10.18653/v1/2022.acl-long.306} {Identifying
+  the human values behind arguments}.
+\newblock In \emph{Proceedings of the 60th Annual Meeting of the Association
+  for Computational Linguistics (Volume 1: Long Papers)}, pages 4459--4471,
+  Dublin, Ireland. Association for Computational Linguistics.
+
+\bibitem[{Kingma and Ba(2014)}]{Kingma2014}
+Diederik~P. Kingma and Jimmy Ba. 2014.
+\newblock \href {https://doi.org/10.48550/ARXIV.1412.6980} {Adam: A method for
+  stochastic optimization}.
+
+\bibitem[{Pennington et~al.(2014)Pennington, Socher, and
+  Manning}]{Pennington2014}
+Jeffrey Pennington, Richard Socher, and Christopher~D. Manning. 2014.
+\newblock \href {http://www.aclweb.org/anthology/D14-1162} {Glove: Global
+  vectors for word representation}.
+\newblock In \emph{Empirical Methods in Natural Language Processing (EMNLP)},
+  pages 1532--1543.
+
+\bibitem[{Rokeach(1976)}]{Rokeach1976}
+M.~Rokeach. 1976.
+\newblock \href {https://books.google.it/books?id=jZYZtAEACAAJ} {\emph{The
+  Nature of Human Values}}.
+\newblock Free Press.
+
+\bibitem[{Sanh et~al.(2019)Sanh, Debut, Chaumond, and Wolf}]{Sanh2019}
+Victor Sanh, Lysandre Debut, Julien Chaumond, and Thomas Wolf. 2019.
+\newblock Distilbert, a distilled version of bert: smaller, faster, cheaper and
+  lighter.
+\newblock \emph{ArXiv}, abs/1910.01108.
+
+\bibitem[{Schwartz et~al.(2012)Schwartz, Cieciuch, Vecchione, Davidov, Fischer,
+  Beierlein, Ramos, Verkasalo, Lönnqvist, Demirutku, dirilen gumus, and
+  Konty}]{Schwartz2012}
+Shalom Schwartz, Jan Cieciuch, Michele Vecchione, Eldad Davidov, Ronald
+  Fischer, Constanze Beierlein, Alice Ramos, Markku Verkasalo, Jan-Erik
+  Lönnqvist, Kursad Demirutku, Ozlem dirilen gumus, and Mark Konty. 2012.
+\newblock \href {https://doi.org/10.1037/a0029393} {Refining the theory of
+  basic individual values}.
+\newblock \emph{Journal of Personality and Social Psychology}, 103:663--88.
+
+\bibitem[{Turc et~al.(2019)Turc, Chang, Lee, and Toutanova}]{Turc2019}
+Iulia Turc, Ming{-}Wei Chang, Kenton Lee, and Kristina Toutanova. 2019.
+\newblock \href {http://arxiv.org/abs/1908.08962} {Well-read students learn
+  better: The impact of student initialization on knowledge distillation}.
+\newblock \emph{CoRR}, abs/1908.08962.
+
+\end{thebibliography}
